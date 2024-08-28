@@ -75,7 +75,7 @@ const LeftSidebar = () =>{
                     <p>{user.name}</p>
                     </div>
                     :
-                    Array(12).fill("").map((item,index)=> (
+                    Array(12).fill(" ").map((item,index)=> (
                         <div key={index} className='friends'>
                         <img src={assets.profile_img} alt =""/>
                         <div>
