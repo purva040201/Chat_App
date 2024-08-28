@@ -1,7 +1,7 @@
 {
-  "homepage": "https://purva040201.github.io/chat_app1",
+  "homepage": "https://purva040201.github.io/Chat_App",
   "name": "chat-app",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
