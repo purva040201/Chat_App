@@ -9,7 +9,7 @@ import AppContextProvider from './context/AppContext.jsx'
 
 
 createRoot(document.getElementById('root')).render(
-<BrowserRouter basename='/chat_app1'>
+<BrowserRouter basename='/Chat_App'>
 <AppContextProvider>
 <App />
 </AppContextProvider>
